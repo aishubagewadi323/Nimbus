@@ -37,6 +37,24 @@ NimbusAI-Assignment/
 
 ---
 
+# Nimbus Data Analyst Assignment
+
+## Tasks Completed
+- Task 1: SQL Queries (PostgreSQL)
+- Task 2: MongoDB Aggregations
+- Task 3: Python Analysis
+- Task 4: Power BI Dashboard
+
+## Key Insights
+- High churn among detractors (39.5%)
+- Major drop-off in onboarding funnel
+- Revenue growing steadily
+
+## Tools Used
+- PostgreSQL (pgAdmin)
+- MongoDB
+- Python (pandas, scipy)
+- Power BI
 ## Setup & Running
 
 ### PostgreSQL Queries
